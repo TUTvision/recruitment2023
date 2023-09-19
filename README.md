@@ -26,6 +26,29 @@ The doctoral candidates will be supervised by [Professor Esa Rahtu](http://esa.r
   <figcaption><a href="https://users.aalto.fi/~kannalj1/" rel="some text"> Juho Kannala </a></figcaption>
 </figure>
 
+### Visual-inertial odometry
+
+We have developed a visual-inertial odometry method based on an information fusion framework employing low-cost IMU sensors and monocular or stereo camera. Our approach utilizes strong coupling between inertial and visual data sources which leads to robustness against occlusion and feature-poor environments. The video explains our method presented in this [paper](https://arxiv.org/abs/2106.11857). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8V_EGJrPHeA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### Image based localisation and SLAM
+
+We have investigated machine learning based approaches for visual localization and SLAM systems. For instance, we have developed a CNN-based [scene coordinate regression method](https://arxiv.org/abs/1808.04999) for image-based localization. The new model can be trained without careful initialization, and the system achieves accurate results. Another example is a method for scalable and fully 3D magnetic field SLAM using local anomalies in the magnetic field as a source of position information. The video illustrates the [magnetic field SLAM method](https://arxiv.org/abs/1804.01926) in practice. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pbwWLoh6mvI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### Visually guided audio generation
+
+We have studied several interesting problem where 
+
+
+
+
+
+
+
+
 
 
 
