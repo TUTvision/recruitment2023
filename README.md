@@ -42,6 +42,38 @@ We have investigated machine learning based approaches for visual localization a
 
 We have studied several interesting problem where 
 
+...
+
+
+## Host institutions
+
+[Aalto University](https://www.aalto.fi/en) and [Tampere University](https://www.tuni.fi/en), are the leading universities in engineering and technology in [Finland](https://en.wikipedia.org/wiki/Finland). 
+
+The Computer Science Department at Aalto provides world-class research and education in modern computer science to foster future science, engineering and society. The work combines fundamental research with innovative applications. The department is routinely ranked among the top 10 CS departments in Europe and in the top 100 globally. 
+
+The Signal Processing at Tampere University has 170 members of which 30-40% are of foreign origin. The department has held the prestiguous status of a Center of Excellence in Research (CoE) elected by the Finnish Academy of Sciences. Core areas of research include image, video and audio signal processing and analysis as well as machine learning related topics.
+
+
+## Working and studying in Finland
+
+Finland has been assessed to be among the [best countries in the world](http://www.stat.fi/tup/satavuotias-suomi/suomi-maailman-karjessa_en.html) with respect to many quality of life indicators, including being the overall #1 country in human wellbeing. Finland is among the leading countries in ICT & Digitalization, from 5G networks to financial technology, artificial intelligence and AR/VR innovations to IoT, digital education and health solutions. Finland’s booming gaming industry is led by companies like Supercell (Clash of Clans) and Rovio (Angry Birds). More information about [studying](https://www.studyinfinland.fi) and [working](https://www.businessfinland.fi/en/do-business-with-finland/work-in-finland/in-brief/) in Finland can be obtained from the links. 
+
+
+## Compensation
+
+The starting salary of a PhD student is ca. 2400 EUR per month and it will increase during the studies depending on the progress (up to 3100 EUR per month). 
+
+In addition to the salary, the contract includes occupational healthcare benefits, and Finland has a comprehensive social security system. The positions are located at Aalto University and Tampere University.
+
+
+## How to apply
+
+The applications are submitted to the application portals of the corresponding universities. We highly recommend you to apply through both portals, even if you have a clear preference on which university you prefer, this can be decided later in any case. 
+
+The links to the application portals:
+- Tampere University:
+- Aalto University: 
+
 
 
 
