@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#forkme_banner {
+	display: none;
+}
+
+#header_wrap a {
+	color: #fff;
+}
+
+figure {
+    display: inline-block;
+    border: 1px none;
+    margin: 1px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px none;
+    text-align: center;
+}
+
+
+
+
